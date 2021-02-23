@@ -2,7 +2,7 @@
 
 
 
-<img width="auto" src="">
+<img width="auto" src="https://avatars.githubusercontent.com/u/72113891?s=60&v=4">
 
 # Luan Cardoso
 
