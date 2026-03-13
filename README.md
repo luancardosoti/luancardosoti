@@ -2,8 +2,9 @@
 
 ## Olá pessoal 👋
 Desenvolvedor Full Stack, especializado em React.js/Node.js. 
-Trabalhando profissionalmente com React.js e Node.js desde 2021, melhorando o desempenho e integrações de aplicações. Tenho experiência em todo processo de construção de um software desde planejamento à implantação. Atuei em projetos que impactam direta e indiretamente a experiência de milhares de usuários, abrangendo as áreas de engenharia, marketing, telecomunicações, startups, pequenos e médios empreendedores, setor imobiliário, manufatura e comercial. :computer:
+Trabalhando profissionalmente com React.js e Node.js desde 2021, melhorando o desempenho e integrações de aplicações. Tenho experiência em todo processo de construção de um software desde planejamento à implantação. Atuei em projetos que impactam direta e indiretamente a experiência de milhares de usuários, abrangendo as áreas de engenharia, marketing, telecomunicações, startups, pequenos e médios empreendedores, setor imobiliário, manufatura e comercial.
 
+Me dedico para construir produtos de sucesso, trabalho bem em equipe, experiente em simplificar processos para melhorar a experiência do cliente e solucionar problemas de projetos de forma eficiente.
 
  <br/> :green_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end utilizando React ou Node
  <br/> :computer: &nbsp; Minha stack: React, Node.js, Next.js, TypeScript
